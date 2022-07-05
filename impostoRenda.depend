@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1603406759 source:c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\impostorenda\main.cpp
+	<iostream>
+	"pessoa.h"
+	"juridica.h"
+	"fisica.h"
+
+1603359867 source:c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\impostorenda\src\pessoa.cpp
+	"pessoa.h"
+
+1603360827 c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\impostorenda\include\pessoa.h
+
+1603360827 source:c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\impostorenda\src\juridica.cpp
+	"juridica.h"
+	"pessoa.h"
+
+1603360827 c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\impostorenda\include\juridica.h
+	"pessoa.h"
+
+1603406375 source:c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\impostorenda\src\fisica.cpp
+	"fisica.h"
+
+1603360827 c:\users\lucas\onedrive\documents\unisinos\programação orientada a objetos 1\impostorenda\include\fisica.h
+	"pessoa.h"
+
